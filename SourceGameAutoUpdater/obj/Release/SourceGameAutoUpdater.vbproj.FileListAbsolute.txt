@@ -1,0 +1,11 @@
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Release\SourceGameAutoUpdater.exe.config
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Release\SourceGameAutoUpdater.exe
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Release\SourceGameAutoUpdater.pdb
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Release\SourceGameAutoUpdater.xml
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.Form1.resources
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.Resources.resources
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.vbproj.GenerateResource.Cache
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.exe
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.xml
+C:\Users\Uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.pdb
+C:\Users\Uesr\Documents\Visual Studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Release\SourceGameAutoUpdater.vbprojResolveAssemblyReference.cache

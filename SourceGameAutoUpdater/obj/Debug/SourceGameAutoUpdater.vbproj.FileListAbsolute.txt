@@ -1,0 +1,10 @@
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Debug\SourceGameAutoUpdater.exe.config
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Debug\SourceGameAutoUpdater.exe
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Debug\SourceGameAutoUpdater.pdb
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\bin\Debug\SourceGameAutoUpdater.xml
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.Resources.resources
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.vbproj.GenerateResource.Cache
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.exe
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.xml
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.pdb
+c:\users\uesr\documents\visual studio 2013\Projects\SourceGameAutoUpdater\SourceGameAutoUpdater\obj\Debug\SourceGameAutoUpdater.Form1.resources
